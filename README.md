@@ -30,5 +30,3 @@ _You have 24 hours to post the best score possible in this stylish arcade wave b
 
 - Game Designer / Lead Programmer / Project Lead
   - [Simon Norman](https://twitter.com/zhymonnorman)
-- Gameplay Programmer / Tech Artist
-  - [Amber McCausley](https://www.linkedin.com/in/amber-mccausley-07a1b473/)

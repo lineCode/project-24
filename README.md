@@ -27,12 +27,6 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 - Mac
 - tvOS
 
-## Follow Swarm Creative on Social Media
-
-- [Facebook](https://www.facebook.com/swarmcreative)
-- [Instagram](https://www.instagram.com/swarmcreative/)
-- [Twitter](https://twitter.com/SwarmCreative)
-
 ## Dev Team
 
 - Game Designer / Lead Programmer / Project Lead
@@ -43,3 +37,12 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
   - Amber McCausley
 	  - [LinkedIn](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
 
+## Links
+- [Game Design Document](https://docs.google.com/document/d/1f3JrzcUsbDiUyb51hPZmgMo40Hl0v2VUxBM5Y9sC518/edit?usp=sharing)
+
+
+## Follow Swarm Creative on Social Media
+
+- [Facebook](https://www.facebook.com/swarmcreative)
+- [Instagram](https://www.instagram.com/swarmcreative/)
+- [Twitter](https://twitter.com/SwarmCreative)

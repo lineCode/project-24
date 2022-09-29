@@ -18,8 +18,11 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 
 ## Target Platforms
 
-- Mobile (iOS & Android)
-- PC/Mac (Post Launch)
+- iOS 
+- Android
+- PC
+- Mac
+- tvOS
 
 ## Follow Swarm Creative on Social Media
 

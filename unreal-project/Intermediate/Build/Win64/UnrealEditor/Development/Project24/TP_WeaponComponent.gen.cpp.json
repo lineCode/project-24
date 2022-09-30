@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project24\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\development\\project24\\definitions.project24.h",
+            "f:\\project24\\source\\project24\\tp_weaponcomponent.h",
+            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

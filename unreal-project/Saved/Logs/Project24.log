@@ -2001,3 +2001,126 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.01-15.08.38:539][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2022.10.01-15.08.38:544][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2022.10.01-15.08.38:587][101]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.10.01-15.16.51:343][782]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.678 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-16.16.50:906][403]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.465 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-17.16.50:841][ 25]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.349 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-18.16.50:743][647]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.328 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-19.16.50:734][269]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.338 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-19.41.30:171][205]LogSlate: Took 0.004277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.01-19.41.30:182][205]LogSlate: Took 0.002895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.01-19.41.34:202][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MySample/MyHUD.MyHUD
+[2022.10.01-19.41.34:202][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.41.34:323][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.34:323][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.34:735][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.34:770][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.34:770][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.34:793][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.34:803][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.34:803][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.34:827][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.34:835][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.34:835][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.34:861][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.34:869][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.34:869][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.34:895][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.34:896][540]LogBlueprintEditor: Perf: 0.6 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.10.01-19.41.34:896][540]LogBlueprintEditor: Perf: 0.5 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.10.01-19.41.35:744][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.35:744][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.35:766][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.35:768][540]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.41.35:768][540]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.41.35:792][540]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.41.44:897][540]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.10.01-19.41.44:897][540]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [8359ms] waiting for h/w. InstanceID=1
+[2022.10.01-19.41.44:897][540]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049965s
+[2022.10.01-19.41.45:089][540]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002497s (0.319775s overbudget)
+[2022.10.01-19.41.46:755][540]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28008
+[2022.10.01-19.41.46:755][540]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2022.10.01-19.41.47:755][540]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2022.10.01-19.41.47:758][540]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4704e70d-9a69-4033-a20f-ee5cee2b8d32}, Name=Speakers (4- THRONMAX MDRILL ONE PRO v1.1)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=22.15
+[2022.10.01-19.41.47:758][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.01-19.41.47:768][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.01-19.41.47:768][540]LogSlate: Took 0.003951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.01-19.41.48:246][541]LogSlate: Took 0.003834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.01-19.41.50:457][679]LogSlate: Window 'MyHUD' being destroyed
+[2022.10.01-19.42.03:241][761]BlueprintLog: New page: Compile MyHUD
+[2022.10.01-19.42.03:287][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.01-19.42.03:304][761]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.42.03:304][761]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category coding --write
+[2022.10.01-19.42.03:327][761]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.42.04:611][836]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.01-19.42.04:616][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.01-19.42.04:617][836]PIE: New page: PIE session: MyMap (Oct 1, 2022, 11:42:04 AM)
+[2022.10.01-19.42.04:617][836]LogPlayLevel: Creating play world package: /Game/MySample/UEDPIE_0_MyMap
+[2022.10.01-19.42.04:624][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007693s)
+[2022.10.01-19.42.04:625][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MySample/MyMap.MyMap to /Game/MySample/UEDPIE_0_MyMap.MyMap (0.007790s)
+[2022.10.01-19.42.04:625][836]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.42.04:625][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.42.04:625][836]LogAIModule: Creating AISystem for world MyMap
+[2022.10.01-19.42.04:625][836]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2022.10.01-19.42.04:653][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.01-19.42.04:654][836]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.01-19.42.04:654][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.01-19.42.04:654][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.01-19.42.04:654][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.01-19.42.04:655][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.01-19.42.04:655][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.01-19.42.04:655][836]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.01-19.42.04:655][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.01-19.42.04:655][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.01-19.42.04:655][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.01-19.42.04:655][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.01-19.42.04:655][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.01-19.42.04:657][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.01-19.42.04:692][836]LogAudioMixer: Display: Using Audio Hardware Device Speakers (4- THRONMAX MDRILL ONE PRO v1.1)
+[2022.10.01-19.42.04:692][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.01-19.42.04:692][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.01-19.42.04:692][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.01-19.42.04:693][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.01-19.42.04:693][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.01-19.42.04:694][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.01-19.42.04:694][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.01-19.42.04:694][836]LogInit: FAudioDevice initialized.
+[2022.10.01-19.42.04:694][836]LogAudio: Display: Audio Device (ID: 3) registered with world 'MyMap'.
+[2022.10.01-19.42.04:767][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-19.42.04:768][836]LogLoad: Game class is 'MyGameMode_C'
+[2022.10.01-19.42.04:769][836]LogWorld: Bringing World /Game/MySample/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2022.10.01-15.42.04
+[2022.10.01-19.42.04:769][836]LogWorld: Bringing up level for play took: 0.001532
+[2022.10.01-19.42.04:772][836]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.01-19.42.04:776][836]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.01-19.42.04:776][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.01-19.42.04:783][836]PIE: Server logged in
+[2022.10.01-19.42.04:785][836]PIE: Play in editor total start time 0.169 seconds.
+[2022.10.01-19.42.04:785][836]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.42.04:785][836]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category debugging 
+[2022.10.01-19.42.04:811][836]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.42.04:849][836]LogViewport: Scene viewport resized to 1283x740, mode Windowed.
+[2022.10.01-19.42.07:505][957]LogTemp: WakaTime: Sending Heartbeat
+[2022.10.01-19.42.07:505][957]LogTemp: Warning: Running command:  /c start "" /b "C:\Users\Coolj\.wakatime\wakatime-cli-windows-amd64.exe" --entity "Project24" --key 0c7515cf-b0e6-47ae-b350-806dc1b42fba --project "Project24" --entity-type "app" --language "Unreal Engine" --plugin "unreal-wakatime/1.2.2" --category debugging --write
+[2022.10.01-19.42.07:529][957]LogTemp: WakaTime: Heartbeat successfully sent.
+[2022.10.01-19.42.07:529][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-19.42.07:529][957]LogWorld: BeginTearingDown for /Game/MySample/UEDPIE_0_MyMap
+[2022.10.01-19.42.07:530][957]LogSlate: Window 'Project24 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.01-19.42.07:536][957]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.42.07:536][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.42.07:546][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.01-19.42.07:551][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.42.07:580][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.42.07:580][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.01-19.42.07:581][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.01-19.42.07:587][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.01-19.42.07:616][958]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.01-19.51.51:122][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.01-19.51.51:122][736]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MySample/MyMap' took 0.032
+[2022.10.01-19.51.51:123][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MySample/MyHUD] ([2] browsable assets)...
+[2022.10.01-19.51.51:123][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/MySample/MyHUD]
+[2022.10.01-19.51.51:123][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MySample/MyHUD" FILE="F:/project-24/unreal-project/Saved/Autosaves/Game/MySample/MyHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.10.01-19.51.51:131][736]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.007971 seconds
+[2022.10.01-19.51.51:144][736]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MySample/MyHUD_Auto1
+[2022.10.01-19.51.51:144][736]LogSavePackage: Moving 'F:/project-24/unreal-project/Saved/MyHUD_Auto1267B6F86420261CE1C1AA5933984972F.tmp' to 'F:/project-24/unreal-project/Saved/Autosaves/Game/MySample/MyHUD_Auto1.uasset'
+[2022.10.01-19.51.51:145][736]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.10.01-20.16.50:821][234]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.343 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-21.16.50:991][ 33]LogDerivedDataCache: C:/Users/Coolj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.328 and deleted 0 file(s) with total size 0 MiB.

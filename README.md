@@ -1,4 +1,3 @@
-
 [![Gitkraken Badge](https://img.shields.io/badge/Repo%20Powered%20By-Gitkraken-teal?style=plastic&logo=gitkraken)](https://www.gitkraken.com/invite/csheW1Ty)
 [![Swarm Badge](https://img.shields.io/badge/Powered%20by-Swarm%20Creative-yellowgreen?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcSURBVHgBrZGxDYMwEEW/QpXOI2SDrJARMgJS+syQDZIRkgmyQRQWQGIBoIQKSqjgW1xhgUEH4klPsq07f+sM7MwLGzH0RC+yVmEbQprRij61jVfaibHsJwSes4K2NKIlvdOE5lCQOanW37jg4GkKpfiPBXyNZ3rDMCTIJW8oMM5T7VRTbWJNP07aAyswS2mWYOa8oUf6xfAV+9ED/7khQ198MsEAAAAASUVORK5CYII=)](https://swarmcreative.co)
 
@@ -21,7 +20,7 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 
 ## Target Platforms
 
-- iOS 
+- iOS
 - Android
 - PC
 - Mac
@@ -31,15 +30,15 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 
 - Game Designer / Lead Programmer / Project Lead
   - Simon Norman
-	  - [Twitter](https://twitter.com/ZhymonNorman)
-	  - [LinkedIn](https://www.linkedin.com/in/simonjnorman/)
+    - [Twitter](https://twitter.com/ZhymonNorman)
+    - [LinkedIn](https://www.linkedin.com/in/simonjnorman/)
 - Gameplay Programmer / Tech Artist
   - Amber McCausley
-	  - [LinkedIn](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
+    - [LinkedIn](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
 
 ## Links
-- [Game Design Document](https://docs.google.com/document/d/1f3JrzcUsbDiUyb51hPZmgMo40Hl0v2VUxBM5Y9sC518/edit?usp=sharing)
 
+- [High Concept Document](https://docs.google.com/document/d/1f3JrzcUsbDiUyb51hPZmgMo40Hl0v2VUxBM5Y9sC518/edit?usp=sharing)
 
 ## Follow Swarm Creative on Social Media
 

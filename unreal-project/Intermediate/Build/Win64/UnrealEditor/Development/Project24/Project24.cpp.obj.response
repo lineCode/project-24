@@ -1,7 +1,7 @@
-F:\Project24\Source\Project24\Project24.cpp
+F:\project-24\unreal-project\Source\Project24\Project24.cpp
 /I .
-/I F:\Project24\Intermediate\Build\Win64\UnrealEditor\Inc\Project24
-/I F:\Project24\Source
+/I F:\project-24\unreal-project\Intermediate\Build\Win64\UnrealEditor\Inc\Project24
+/I F:\project-24\unreal-project\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -277,12 +277,12 @@ F:\Project24\Source\Project24\Project24.cpp
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"F:\Project24\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"F:\Project24\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Definitions.Project24.h"
-/Yu"F:\Project24\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\Project24\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"F:\Project24\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Project24.cpp.obj"
-/sourceDependencies F:\Project24\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Project24.cpp.json
+/FI"F:\project-24\unreal-project\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"F:\project-24\unreal-project\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Definitions.Project24.h"
+/Yu"F:\project-24\unreal-project\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"F:\project-24\unreal-project\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"F:\project-24\unreal-project\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Project24.cpp.obj"
+/sourceDependencies F:\project-24\unreal-project\Intermediate\Build\Win64\UnrealEditor\Development\Project24\Project24.cpp.json
 /Zc:inline
 /nologo
 /Oi

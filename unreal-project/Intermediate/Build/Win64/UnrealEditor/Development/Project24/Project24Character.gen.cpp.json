@@ -1,19 +1,19 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24character.gen.cpp",
+        "Source": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24character.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "f:\\project24\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\development\\project24\\definitions.project24.h",
-            "f:\\project24\\source\\project24\\project24character.h",
+            "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\development\\project24\\definitions.project24.h",
+            "f:\\project-24\\unreal-project\\source\\project24\\project24character.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
             "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
-            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24character.generated.h"
+            "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24character.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

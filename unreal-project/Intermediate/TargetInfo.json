@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Project24",
-			"Path": "F:\\Project24\\Source\\Project24.Target.cs",
+			"Path": "F:\\project-24\\unreal-project\\Source\\Project24.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Project24Editor",
-			"Path": "F:\\Project24\\Source\\Project24Editor.Target.cs",
+			"Path": "F:\\project-24\\unreal-project\\Source\\Project24Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

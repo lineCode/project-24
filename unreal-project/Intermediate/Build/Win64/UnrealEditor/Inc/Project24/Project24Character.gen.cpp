@@ -162,15 +162,15 @@ void EmptyLinkFunctionForGeneratedCodeProject24Character() {}
 		return AProject24Character::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AProject24Character);
-	struct Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24Character_h_Statics
+	struct Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24Character_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24Character_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24Character_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AProject24Character, AProject24Character::StaticClass, TEXT("AProject24Character"), &Z_Registration_Info_UClass_AProject24Character, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AProject24Character), 3351440485U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24Character_h_757875019(TEXT("/Script/Project24"),
-		Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24Character_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24Character_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24Character_h_757875019(TEXT("/Script/Project24"),
+		Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24Character_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24Character_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

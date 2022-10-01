@@ -1,13 +1,13 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24projectile.gen.cpp",
+        "Source": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24projectile.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "f:\\project24\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\development\\project24\\definitions.project24.h",
-            "f:\\project24\\source\\project24\\project24projectile.h",
-            "f:\\project24\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24projectile.generated.h"
+            "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\development\\project24\\definitions.project24.h",
+            "f:\\project-24\\unreal-project\\source\\project24\\project24projectile.h",
+            "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\unrealeditor\\inc\\project24\\project24projectile.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

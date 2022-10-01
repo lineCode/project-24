@@ -1,10 +1,10 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "f:\\project24\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
+        "Source": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "f:\\project24\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h",
+            "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\core\\public\\containers\\containersfwd.h",
             "c:\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\platform.h",

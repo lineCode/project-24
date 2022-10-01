@@ -74,15 +74,15 @@ void EmptyLinkFunctionForGeneratedCodeProject24GameMode() {}
 		return AProject24GameMode::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AProject24GameMode);
-	struct Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24GameMode_h_Statics
+	struct Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24GameMode_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24GameMode_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24GameMode_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AProject24GameMode, AProject24GameMode::StaticClass, TEXT("AProject24GameMode"), &Z_Registration_Info_UClass_AProject24GameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AProject24GameMode), 2272162102U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24GameMode_h_1427805406(TEXT("/Script/Project24"),
-		Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project24_Source_Project24_Project24GameMode_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24GameMode_h_1427805406(TEXT("/Script/Project24"),
+		Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_unreal_project_Source_Project24_Project24GameMode_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

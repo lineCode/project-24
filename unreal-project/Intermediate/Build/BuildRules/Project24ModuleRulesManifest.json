@@ -1,8 +1,14 @@
 {
 	"SourceFiles": [
-		"F:\\Project24\\Source\\Project24\\Project24.Build.cs",
-		"F:\\Project24\\Source\\Project24.Target.cs",
-		"F:\\Project24\\Source\\Project24Editor.Target.cs"
+		"F:\\project-24\\unreal-project\\Source\\Project24\\Project24.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\GitSourceControl\\Source\\GitSourceControl\\GitSourceControl.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\JsonLibrary\\Source\\JsonLibrary\\JsonLibrary.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\JsonLibrary\\Source\\JsonLibraryBlueprintSupport\\JsonLibraryBlueprintSupport.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\WakaTimeForUE\\Source\\WakaTimeForUE\\WakaTimeForUE.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\WebUI\\Source\\WebBrowserUI\\WebBrowserUI.Build.cs",
+		"F:\\project-24\\unreal-project\\Plugins\\WebUI\\Source\\WebUI\\WebUI.Build.cs",
+		"F:\\project-24\\unreal-project\\Source\\Project24.Target.cs",
+		"F:\\project-24\\unreal-project\\Source\\Project24Editor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

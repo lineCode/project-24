@@ -1,0 +1,39 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\development\\jsonlibrary\\module.jsonlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\development\\jsonlibrary\\definitions.jsonlibrary.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibraryblueprinthelpers.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryblueprinthelpers.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryobject.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryenums.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibraryenums.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryvalue.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibraryvalue.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibraryobject.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibraryblueprinthelpers.generated.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\userdefinedstruct.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\userdefinedstruct.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibraryconverter.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryconverter.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\jsonobjectwrapper.generated.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\culture.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibraryhelpers.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryhelpers.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibrarylist.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibrarylist.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\jsonlibraryhelpers.generated.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibrarylist.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibrarymodule.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibrarymodule.h",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibraryobject.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\jsonlibrary\\source\\jsonlibrary\\private\\jsonlibraryvalue.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

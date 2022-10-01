@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\project-24\\unreal-project\\plugins\\webui\\intermediate\\build\\win64\\unrealgame\\development\\webbrowserui\\module.webbrowserui.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\project-24\\unreal-project\\intermediate\\build\\win64\\project24\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\project-24\\unreal-project\\plugins\\webui\\intermediate\\build\\win64\\unrealgame\\development\\webbrowserui\\definitions.webbrowserui.h",
+            "f:\\project-24\\unreal-project\\plugins\\webui\\intermediate\\build\\win64\\unrealgame\\inc\\webbrowserui\\webbrowserui.init.gen.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\webui\\intermediate\\build\\win64\\unrealgame\\inc\\webbrowserui\\webinterfacejsfunction.gen.cpp",
+            "f:\\project-24\\unreal-project\\plugins\\webui\\source\\webbrowserui\\public\\webinterfacejsfunction.h",
+            "f:\\project-24\\unreal-project\\plugins\\webui\\intermediate\\build\\win64\\unrealgame\\inc\\webbrowserui\\webinterfacejsfunction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

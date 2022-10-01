@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JsonLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\project-24\unreal-project\Intermediate\Build\Win64\Project24Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\project-24\unreal-project\Plugins\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibrary\Module.JsonLibrary.cpp.obj"
+"F:\project-24\unreal-project\Plugins\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibrary\Module.JsonLibrary.gen.1_of_2.cpp.obj"
+"F:\project-24\unreal-project\Plugins\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibrary\Module.JsonLibrary.gen.2_of_2.cpp.obj"
+"F:\project-24\unreal-project\Plugins\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibrary\Default.rc2.res"
+/OUT:"F:\project-24\unreal-project\Plugins\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibrary\UnrealEditor-JsonLibrary.lib"

@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"JsonLibrary": "UnrealEditor-JsonLibrary.dll",
+		"JsonLibraryBlueprintSupport": "UnrealEditor-JsonLibraryBlueprintSupport.dll"
+	}
+}

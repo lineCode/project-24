@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.WebUI.cpp.o",
+		"Module.WebUI.gen.cpp.o"
+	]
+}

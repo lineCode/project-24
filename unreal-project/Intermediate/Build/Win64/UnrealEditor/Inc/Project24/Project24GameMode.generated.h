@@ -13,70 +13,72 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PROJECT24_Project24GameMode_generated_h
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_SPARSE_DATA
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_RPC_WRAPPERS
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_SPARSE_DATA
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_RPC_WRAPPERS
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAProject24GameMode(); \
 	friend struct Z_Construct_UClass_AProject24GameMode_Statics; \
 public: \
-	DECLARE_CLASS(AProject24GameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Project24"), PROJECT24_API) \
+	DECLARE_CLASS(AProject24GameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Project24"), NO_API) \
 	DECLARE_SERIALIZER(AProject24GameMode)
 
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_INCLASS \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAProject24GameMode(); \
 	friend struct Z_Construct_UClass_AProject24GameMode_Statics; \
 public: \
-	DECLARE_CLASS(AProject24GameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Project24"), PROJECT24_API) \
+	DECLARE_CLASS(AProject24GameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Project24"), NO_API) \
 	DECLARE_SERIALIZER(AProject24GameMode)
 
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_STANDARD_CONSTRUCTORS \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	PROJECT24_API AProject24GameMode(const FObjectInitializer& ObjectInitializer); \
+	NO_API AProject24GameMode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProject24GameMode) \
-	DECLARE_VTABLE_PTR_HELPER_CTOR(PROJECT24_API, AProject24GameMode); \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AProject24GameMode); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProject24GameMode); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
-	PROJECT24_API AProject24GameMode(AProject24GameMode&&); \
-	PROJECT24_API AProject24GameMode(const AProject24GameMode&); \
+	NO_API AProject24GameMode(AProject24GameMode&&); \
+	NO_API AProject24GameMode(const AProject24GameMode&); \
 public:
 
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AProject24GameMode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
-	PROJECT24_API AProject24GameMode(AProject24GameMode&&); \
-	PROJECT24_API AProject24GameMode(const AProject24GameMode&); \
+	NO_API AProject24GameMode(AProject24GameMode&&); \
+	NO_API AProject24GameMode(const AProject24GameMode&); \
 public: \
-	DECLARE_VTABLE_PTR_HELPER_CTOR(PROJECT24_API, AProject24GameMode); \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AProject24GameMode); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProject24GameMode); \
-	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AProject24GameMode)
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AProject24GameMode)
 
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_9_PROLOG
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_GENERATED_BODY_LEGACY \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_PROLOG
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_SPARSE_DATA \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_RPC_WRAPPERS \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_INCLASS \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_STANDARD_CONSTRUCTORS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_SPARSE_DATA \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_RPC_WRAPPERS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_INCLASS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_unreal_project_Source_Project24_Project24GameMode_h_12_GENERATED_BODY \
+#define FID_unreal_project_Source_Project24_Project24GameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_SPARSE_DATA \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_unreal_project_Source_Project24_Project24GameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_SPARSE_DATA \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_unreal_project_Source_Project24_Project24GameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

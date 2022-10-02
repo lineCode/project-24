@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "tailwindcss": "latest"
+  },
+  "scripts": {
+    "build": "yarn run tailwindcss -i ./input.css -o ./css/main.css --watch"
+  }
+}

@@ -17,6 +17,7 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 - [NestJS (Leaderboard and Modifiers API)](https://nestjs.com/)
 - [Railway (API Hosting)](https://railway.app/)
 - [Epic Online Services (User Auth)](https://dev.epicgames.com/en-US/services)
+- [ZenHub (Project Management)](https://app.zenhub.com/workspaces/project-24-6341efe99e69d4fe4a03957d/board)
 
 ## Target Platforms
 

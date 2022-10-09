@@ -1,4 +1,4 @@
-# Project 24 UI
+# Project 24 | UI
 
 - [JQuery](https://jquery.com/)
 - [TailwindCSS](https://tailwindcss.com/docs/installation)

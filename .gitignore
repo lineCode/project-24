@@ -386,3 +386,10 @@ RELEASE_MSG
 # Linux project files
 /Makefile
 /.ignore
+unreal-project/Intermediate/
+
+unreal-project/Saved/
+
+unreal-project/Plugins/JsonLibrary/Intermediate/
+
+unreal-project/Plugins/WebUI/Intermediate/

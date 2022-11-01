@@ -25,7 +25,8 @@ _You have 24 hours to post the best score possible in this stylish arcade wave-b
 - Android
 - PC
 - Mac
-- tvOS
+- SteamDeck
+- tvOs
 
 ## Dev Team
 
